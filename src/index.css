@@ -4,6 +4,13 @@
   box-sizing: border-box;
 }
 
+:root {
+  --primary-color: #141414;
+  --secondary-color: #474747;
+  --text-color: #FFFFFF;
+  --accent-color: #D7FE62;
+}
+
 html {
   scroll-behavior: smooth;
   scrollbar-width: thin;
