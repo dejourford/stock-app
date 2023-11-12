@@ -39,7 +39,7 @@ h4 {
     width: 100%;
 }
 
-.input-group-title {
+label {
     color: var(--text-color);
 }
 
@@ -64,8 +64,4 @@ button {
     width: 100%;
     font-weight: 800;
     cursor: pointer;
-}
-
-label {
-    color: var(--text-color);
 }
