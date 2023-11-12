@@ -65,3 +65,7 @@ button {
     font-weight: 800;
     cursor: pointer;
 }
+
+label {
+    color: var(--text-color);
+}

@@ -8,12 +8,12 @@ export default function LoginPage() {
             <div className="input-section">
                 <h4>Log In to Stock</h4>
                 <div className="input-group">
-                    <p className="input-group-title">Username</p>
+                <label htmlFor="" className="input-group-title">Username</label>
                     <input type="text"/>
                 </div>
                 
                 <div className="input-group">
-                    <p className="input-group-title">Password</p>
+                    <label htmlFor="" className="input-group-title">Password</label>
                     <input type="password"/>
                 </div>
                 
